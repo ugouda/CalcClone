@@ -1,2 +1,2 @@
 # CalcClone
-I built a small clone of calculator to practice some more JavaScript.
+To further improve my knowledge of JavaScript, I created a miniature version of a calculator.
